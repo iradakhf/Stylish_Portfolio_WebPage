@@ -1,0 +1,377 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.stylishPorfolioPage{
+    background-clip: border-box;
+    background-image:  url(images/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 13rem 0;
+    padding-bottom: 18rem;
+}
+.stylishPortfolioTextContainer h1{
+    box-sizing: border-box;
+    display: block;
+    margin-bottom: 4px;
+    font-size: 84px;
+    font-weight: 700;
+    line-height: 76.8px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-block-end: 17px;
+}
+
+.stylishPortfolioTextContainer{
+    position: relative;
+    left: 20%;
+    box-sizing: border-box;
+    display: block;
+    margin:0px 82.5px;
+    max-width: 720px;
+    padding: 0px 24px;
+    width:720px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: rgb(33, 37, 41);
+}
+.stylishPortfolioTextContainer em{
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: 700;
+    line-height: 31.4544px;
+    text-align: center;
+    margin-top: 10px;
+}
+.btn-primary{
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 40px;
+    padding: 20px 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-color:rgb(255, 255, 255) ;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    vertical-align: middle;
+    color: rgb(255, 255, 255);
+    background-color: rgb(29, 128, 158);
+    border: 1px solid rgb(29, 127, 158);
+    border-radius: 4px;
+
+}
+.btn-primary:hover {
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 40px;
+    padding: 20px 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-color:rgb(255, 255, 255) ;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    vertical-align: middle;
+    color: rgb(255, 255, 255);
+    background-color: rgb(24, 107, 133);
+    border: 1px solid rgb(24, 106, 131);
+    border-radius: 4px;
+
+}
+.whatWeOfferPage{
+    text-align: center;
+    padding: 120px 0px;
+    background-color: rgb(248, 249, 250);
+}
+.whatWeOfferPageTextContainer h2{
+    box-sizing: border-box;
+    display: block;
+    margin-bottom: 8px;
+    font-size: 29px;
+    font-weight: 700;
+    line-height: 35px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-block-end: 8px;
+    color:rgb(33, 37, 41);
+}
+.whatWeOfferPageTextContainer{
+    position: relative;
+    left: 20%;
+    box-sizing: border-box;
+    display: block;
+    margin:0px 82.5px;
+    max-width: 720px;
+    padding: 0px 24px;
+    width:720px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: rgb(33, 37, 41);
+}
+.whatWeOfferPageTextContainer p{
+    box-sizing: border-box;
+    display: block;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: center;
+    margin-bottom: 48px;
+    margin-block-end: 48px;
+    text-decoration: none;
+    padding: 0px 0px;
+}
+.whatWeOfferPageTextContainer a{
+    text-decoration-color: rgb(29, 128, 159);
+    
+}
+.btn-secondary{
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 40px;
+    padding: 20px 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-color:rgb(255, 255, 255) ;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    vertical-align: middle;
+    color: rgb(255, 255, 255);
+    background-color: rgb(33, 37, 41);
+    border: 1px solid rgb(33, 37, 41);
+    border-radius: 4px;
+    transition-duration: 0.15s;
+
+}
+.servicesPage h3{
+    box-sizing: border-box;
+    display: block;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19.2px;
+    text-align: center;
+    text-size-adjust: 100%;
+    text-transform: uppercase;
+    color: rgb(236, 184, 7);
+
+}
+.servicesPage{
+    box-sizing: border-box;
+    display: block;
+    padding: 120px 100px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-size-adjust: 100%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(29, 128, 159);
+}
+.servicesPage h2{
+    box-sizing: border-box;
+    display: block;
+    margin-bottom: 48px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 57.6px;
+    text-align: center;
+    text-size-adjust: 100%;
+    color: rgb(255, 255, 255);
+
+}
+.iconsContainer{
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-size-adjust: 100%;
+    color: rgb(255, 255, 255);
+    position: relative;
+    left: 5.5%;
+   
+}
+
+.iconsContainer img{
+    width: 40.5%;
+    align-items: center;
+    clip-path: circle(50% at 50% 50%);
+    text-align: center;
+    margin-right: 42%;
+    
+}
+.icon_container_common{
+    box-sizing: border-box;
+    display: block;
+    margin-bottom: 18px;
+    padding: 0px 37px;
+    width: 25%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+}
+.iconsContainer h4{
+    width: 21.5%;
+    align-items: center;
+    text-align: center;
+    margin: 0% 1.7%;
+    padding-right: 12%;
+    font-size: 120%;
+}
+.iconsContainer p{
+     width: 45.5%;
+    align-items: center;
+    text-align: center;
+    margin: 0% -10.3%;
+    padding-top: 1.5%;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.welcomeToYourNextWebSitePage{
+    background-clip: border-box;
+    background-image:  url(images/bg-callout.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    padding: 13rem 0;
+    padding-bottom: 18rem;
+}
+.welcomeToYourNextWebSitePageText h2{
+    box-sizing: border-box;
+    display: block;
+    margin-bottom: 4px;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin-block-end: 17px;
+}
+
+.welcomeToYourNextWebSitePageText{
+    box-sizing: border-box;
+    display: block;
+    margin:0px 82.5px;
+    max-width: 720px;
+    padding: 0px 24px;
+    width:720px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: rgb(33, 37, 41);
+}
+
+
+.btn-third{
+    position: relative;
+    left: 37%;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 40px;
+    padding: 20px 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-color:rgb(255, 255, 255) ;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    vertical-align: middle;
+    color: rgb(255, 255, 255);
+    background-color: rgb(29, 128, 158);
+    border: 1px solid rgb(29, 127, 158);
+    border-radius: 4px;
+
+}
+.btn-third:hover {
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 40px;
+    padding: 20px 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    text-decoration-color:rgb(255, 255, 255) ;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    vertical-align: middle;
+    color: rgb(255, 255, 255);
+    background-color: rgb(24, 107, 133);
+    border: 1px solid rgb(24, 106, 131);
+    border-radius: 4px;
+
+}
+.fourth{
+    text-align: center;
+    background-color: rgb(29, 128, 158);
+    padding: 5rem 4rem;
+
+}
+.fourth h2{
+    font-size: 35px;
+    color: white;
+    margin-bottom: 12px;
+}
+.commonButton{
+    box-sizing: border-box;
+    display: inline-block;
+    margin-top: 6px;
+    padding: 20px 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    margin-right: 1%;
+    margin-left: 1%;
+    text-decoration-line: none;
+    text-decoration-style: solid;
+    vertical-align: middle;
+    border-radius: 4px;
+    transition-duration: 0.15s;
+}
+.fourthBtn1{
+    color: black;
+    text-decoration-color:black ;
+    background-color: white;
+    border: 1px solid white;
+}
+.fourthBtn2{
+    color:white;
+    text-decoration-color: white ;
+    background-color: black;
+    border: 1px solid black;
+    padding: 20px 30px;
+}
